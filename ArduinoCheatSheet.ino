@@ -59,6 +59,11 @@ int any_variable = analogRead(pot);		// reads an analog value at the specified p
 analogWrite(int dab, any_variable);		// improvises the read analog value onto the mentioned variable
 
 // Structure
+#include</*any Libraries you want to call*/>
+
+pin_declaration = 9; 	// Pin Declaration
+int a = 8;		// Initialising and Declaring any variables
+
 void setup(){
 statements;
 }

@@ -56,7 +56,7 @@ digitalWrite(pin_name, HIGH);				        	// sets the mentioned pin voltage leve
 digitalWrite(pin_name, LOW);				        	// sets the mentioned pin voltage level LOW
 
 int any_variable = analogRead(pot);		// reads an analog value at the specified pin and stores it in the variable
-analogWrite(int dab, any_variable);		// improvises the read analog value onto the mentioned variable
+analogWrite(any_variable);		// improvises the read analog value onto the mentioned variable
 
 // Structure
 #include</*any Libraries you want to call*/>

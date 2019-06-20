@@ -1,7 +1,7 @@
 # Arduino Cheat Sheet
-Hello, World! Here lies in this repository, a file that contains the Coding Cheat sheet to get started with Arduino Programming in just 10 minutes. Just open the file "ArduinoCheatSheet.ino". Enjoy :)
+Hello, World! Here lies in this repository, a file that contains the Coding Cheat sheet to get you started with Arduino Programming in just 10 minutes. Just open the file "ArduinoCheatSheet.ino" & Enjoy :)
 
-By the way, you'll need the Arduino IDE to open this file or to upload your code to Arduino, which you can download from the following URL:
+By the way, you'll need the Arduino IDE to upload your code to Arduino, which you can download from the following URL:
 
 https://www.arduino.cc/en/Main/Software
 
